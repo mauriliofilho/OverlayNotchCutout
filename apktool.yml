@@ -1,0 +1,19 @@
+version: 2.9.1
+apkFileName: OverlayCutoutiPhoneX.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: com.android.internal.display.cutout.emulation.iphonexcutout
+versionInfo:
+  versionCode: null
+  versionName: null
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
